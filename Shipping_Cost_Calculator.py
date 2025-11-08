@@ -1,4 +1,5 @@
-# Here is a new update by <your GitHub username>
+# Here is a an update by Programmer 1109
+# Here is the latest update by Programmer 1109
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
